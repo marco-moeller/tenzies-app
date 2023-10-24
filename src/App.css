@@ -123,9 +123,6 @@ body {
   align-self: flex-end;
 }
 
-.three {
-}
-
 .three .dot:nth-of-type(1) {
   align-self: flex-start;
 }

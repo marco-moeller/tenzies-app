@@ -65,6 +65,8 @@ const Die = (props) => {
             </div>
           </div>
         );
+      default:
+        return;
     }
   };
 
